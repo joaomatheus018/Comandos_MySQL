@@ -14,7 +14,7 @@ mysql -u root
 
 ---
 
-## 2. 🔐 Criar e selecionar o Banco de Dados
+## 2. 🗄️ Criar e selecionar o Banco de Dados
 
 Criação da base de dados:
 
@@ -24,7 +24,7 @@ create database escola_db;
 
 ---
 
-## 3. 🔐 Seleção do banco em uso
+## 3. 📂 Seleção do banco em uso
 
 (visível no prompt MariaDB [escola_db]>):
 
@@ -34,7 +34,7 @@ use escola_db;
 
 ---
 
-## 4. 🔐 Criar a tabela "aluno"
+## 4. 🛠️ Criar a tabela "aluno"
 
 Definição dos campos matricula (chave/número), nome (texto) e cpf (texto/número):
 
@@ -48,7 +48,7 @@ CREATE TABLE aluno (
 
 ---
 
-## 5. 🔐 Inserir os registros
+## 5. 📝 Inserir os registros
 
 Inclusão dos dados dos 5 alunos exibidos na tabela:
 
@@ -63,7 +63,7 @@ insert into aluno (matricula, nome, cpf) values
 
 ---
 
-## 6. 🔐 Consultar e exibir os dados
+## 6. 🔍 Consultar e exibir os dados
 
 Envio da instrução de seleção (o ponto e vírgula na linha seguinte indica que a consulta foi confirmada e executada):
 
