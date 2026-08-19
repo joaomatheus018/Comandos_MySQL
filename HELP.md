@@ -1,4 +1,4 @@
-# 🖥️ Comandos help MySQL
+# 🖥️ Comandos "AJUDA" MySQL
 
 Este documento apresentas comando para ajudar.
 
